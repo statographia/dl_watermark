@@ -1,0 +1,4 @@
+dl_watermark-env
+dependencies:
+- python=3
+- numpy
